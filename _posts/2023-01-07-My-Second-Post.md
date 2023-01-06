@@ -4,7 +4,7 @@ title:      My Second Post 				# 标题
 subtitle:   Hello World, Hello Blog #副标题
 date:       2023-01-07 				# 时间
 author:     DouglasHao						# 作者
-header-img:  	#这篇文章标题背景图片
+header-img:  img/post-bg-2015.jpg	#这篇文章标题背景图片
 catalog: true 						# 是否归档
 tags:								#标签
     - second
