@@ -68,7 +68,7 @@ gitalk:
   owner: ElaborateBury    #github用户名
   admin: ElaborateBury
   distractionFreeMode: true #是否启用类似FB的阴影遮罩
-  proxy: /github/login/oauth/access_token
+  createIssueManually: true
 
 
 # 统计
