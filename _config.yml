@@ -68,15 +68,6 @@ gitalk:
   owner: ElaborateBury    #github用户名
   admin: ElaborateBury
   distractionFreeMode: true #是否启用类似FB的阴影遮罩
- 
- 
- #valine
- valine:
-  enable: true  # Valine 启用状态
-  app_id: 9hT4IlocR9DSWlhZFsnL14HF-gzGzoHsz
-  app_key: K3bLEqKQwseXkkpW7mNFdsQ2
-  placeholder: ヾﾉ≧∀≦)o来啊，快活啊！  # 占位显示内容
-  pageSize: 10  # 每次显示的评论数量
 
 
 # 统计
