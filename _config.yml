@@ -3,21 +3,21 @@ description: | # 头像背后的信息（html格式），<br/>代表换行
   欢迎<br/>
   欢迎<br/>
   欢迎<br/>
-  <a href="mailto:i@wu-kan.cn">
+  <a href="mailto:2698605869@qq.com">
     <i class="fa-solid fa-envelope"></i>
   </a>
-  <a href="https://github.com/wu-kan">
+  <a href="https://github.com/elaboratebury">
     <i class="fa-brands fa-github"></i>
   </a>
-  <a href="https://vjudge.net/user/WuK">
-    <i class="fa-solid fa-smile"></i>
-  </a>
-  <a href="https://space.bilibili.com/166390020">
-    <i class="fa-brands fa-bilibili"></i>
-  </a>
-  <a href="https://www.zhihu.com/people/wu.kan/activities">
-    <i class="fa-brands fa-zhihu"></i>
-  </a>
+  # <a href="https://vjudge.net/user/WuK">
+  #   <i class="fa-solid fa-smile"></i>
+  # </a>
+  # <a href="https://space.bilibili.com/166390020">
+  #   <i class="fa-brands fa-bilibili"></i>
+  # </a>
+  # <a href="https://www.zhihu.com/people/wu.kan/activities">
+  #   <i class="fa-brands fa-zhihu"></i>
+  # </a>
   <br/>
 url: https://elaboratebury.github.io/ # 你的域名，例如 https://wu-kan.github.io
 baseurl: "" # 假如你的博客是建在某个目录下的，请在这里加上目录名，并且下面配置的所有链接里的`/assets`前也要加，即`/your_baseurl/assets`。这一项结尾不要有'/'。
