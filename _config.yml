@@ -6,7 +6,10 @@ description: | # 头像背后的信息（html格式），<br/>代表换行
   <a href="mailto:2698605869@qq.com">
     <i class="fa-solid fa-envelope"></i>
   </a>
-  <a href="https://github.com/elaboratebury">
+  <a href="https://picx.xpoet.cn/#/upload">
+    <i class="fa-brands fa-picx"></i>
+  </a>
+  <a href="">
     <i class="fa-brands fa-github"></i>
   </a>
   <br/>
