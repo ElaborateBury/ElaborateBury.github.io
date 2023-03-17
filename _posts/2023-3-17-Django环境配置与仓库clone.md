@@ -1,5 +1,5 @@
 ---
-redirect_from: /_posts/2023-3-17Django环境配置与仓库clone/
+redirect_from: /_posts/2023-3-17-Django环境配置与仓库clone/
 title: Django环境配置与仓库clone
 tags:
   - Django
