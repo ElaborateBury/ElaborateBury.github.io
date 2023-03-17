@@ -24,7 +24,7 @@ cd Scripts
 
 activate
 
-pip insdstall django== 2.2.3
+pip insdstall django==2.2.3
 ```
 
 ![](https://cdn.staticaly.com/gh/ElaborateBury/Net-Imagine@master/Imagine/批注-2023-03-14-203359.44r9yq1iqzq0.webp)
