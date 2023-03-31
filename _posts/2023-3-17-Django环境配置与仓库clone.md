@@ -24,7 +24,7 @@ cd Scripts
 
 activate
 
-pip insdstall django==2.2.3
+pip install django==2.2.3
 ```
 
 ![](https://cdn.staticaly.com/gh/ElaborateBury/Net-Imagine@master/Imagine/微信图片_202303171635561.2b60ewxfols0.webp)
